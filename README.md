@@ -5,7 +5,7 @@
 </h1>
 
 
-# :pushpin: Tabela de conteúdos
+# :pushpin: Table of contents
 <!--ts-->
    * [About](#About)
    * [Project Preview](#preview)
