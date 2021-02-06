@@ -23,7 +23,9 @@ Reproducing an example of an interactive bar chart race made by <a href="https:/
   <img width=1024 src="https://github.com/dantls/python-streamlit-bar-chart-race/blob/main/figure.gif" alt="preview" />
 </h1>
 
-<h1 name="run">:construction_worker: How about the project</h1> <br>
+
+
+<h1 name="run">:construction_worker: How to run the project</h1> <br>
 
 ```bash
 # Clone Repository
