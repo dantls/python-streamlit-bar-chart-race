@@ -1,4 +1,9 @@
-<h1 align="center" name="title">Streamlit BarChart Racer | Altair </h1>
+<h1 align="center" name="title">Streamlit and Altair | Bar Chart Race</h1>
+
+<h1 align="center">
+  <img width=500 src="https://github.com/dantls/python-streamlit-bar-chart-race/blob/main/Logo.svg" alt="Logo" />
+</h1>
+
 
 # :pushpin: Tabela de conteúdos
 <!--ts-->
@@ -43,6 +48,9 @@ The tools below were used in the project:
 - [Pandas](https://pandas.pydata.org/)
 - [Altair](https://altair-viz.github.io/index.html)
 
+<h1 align="center">
+  <img width=1024 src="https://github.com/dantls/python-streamlit-bar-chart-race/blob/main/figure.gif" alt="preview" />
+</h1>
 
 <h4 name="license" align="center">
     Developed by <a href="https://www.linkedin.com/in/danilo-gomes-394459103/" target="_blank">Danilo Gomes</a>
