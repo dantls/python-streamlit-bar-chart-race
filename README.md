@@ -19,6 +19,10 @@
 <h1 name="About">ℹ About project</h1>
 Reproducing an example of an interactive bar chart race made by <a href="https://towardsdatascience.com/add-animated-charts-to-your-dashboards-with-streamlit-python-f41863f1ef7c" target="_blank">Arindom Bhattacharjee</a> using only Python and Altair libraries and the Streamlit framework
 
+<h1 name="preview" align="center">
+  <img width=1024 src="https://github.com/dantls/python-streamlit-bar-chart-race/blob/main/figure.gif" alt="preview" />
+</h1>
+
 <h1 name="run">:construction_worker: How about the project</h1> <br>
 
 ```bash
@@ -26,7 +30,7 @@ Reproducing an example of an interactive bar chart race made by <a href="https:/
 $ git clone https://github.com/dantls/python-streamlit-bar-chart-race
 ```
 
-<h3 name='server'>📦 Startar Web App</h3><br>
+<h3 name='web'>📦 Startar Web App</h3><br>
 
 ```bash
 # Navigate to the project folder
@@ -48,9 +52,7 @@ The tools below were used in the project:
 - [Pandas](https://pandas.pydata.org/)
 - [Altair](https://altair-viz.github.io/index.html)
 
-<h1 align="center">
-  <img width=1024 src="https://github.com/dantls/python-streamlit-bar-chart-race/blob/main/figure.gif" alt="preview" />
-</h1>
+
 
 <h4 name="license" align="center">
     Developed by <a href="https://www.linkedin.com/in/danilo-gomes-394459103/" target="_blank">Danilo Gomes</a>
